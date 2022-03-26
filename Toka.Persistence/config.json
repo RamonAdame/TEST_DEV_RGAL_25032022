@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Toka": "Data Source=SIRADAME\\SQLEXPRESS;Initial Catalog=Toka;Integrated Security=True"
+  }
+}
